@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mikołaj
+- 👋 Hi, I’m Mikołaj, data and buisness analyst with quantum chemistry background.
 - 👀 I’m interested in beekeeping, carpentry and gardening.
-- 🌱 I’m currently learning cloud solutions for Data Analytics
+- 🌱 I’m currently learning cloud solutions for Data Enginering, and developing my Python skills. 
 - 📫 How to reach me, just write me an email: mastema44[at]gmail.com
 
 <!---
